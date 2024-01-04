@@ -7,7 +7,7 @@
 <br/>
 
 
-### M 유형 (m6g medium, large)
+### M 유형 (m6g medium, large, xlarge)
 ![BFFAD24D-0C24-4EF6-80B4-D02E7B746EB0_4_5005_c](https://github.com/heeeesoo/aws_instance/assets/73633272/85b645e8-5857-47ae-bcdd-8b142573cccf)
 <br/>
 
