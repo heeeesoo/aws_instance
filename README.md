@@ -16,3 +16,6 @@ t4g.micro, 16GB, arm64: 3.277초
 t4g.small, 16GB, arm64 : 3.32초 
 <br/>
 t4g.small, 20GB, arm64 : 3.492초
+
+<br/>
+정희수, 한다현, 허상진
