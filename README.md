@@ -7,7 +7,6 @@ t4g.nano -> vCPU 2, 메모리 0.5gb, 기타 스펙 동일 (3.09초)
 t2.micro -> vCPU 1, 메모리 1gb, 네트워크/EBS = Unknown (3.08초)
 
 ### T
-<br/>
 t2.micro, 32GB, 64(x86) : 3.086초 
 <br/>
 t4g.nano, 16GB, arm64 : 3.09초 
@@ -19,14 +18,12 @@ t4g.small, 16GB, arm64 : 3.32초
 t4g.small, 20GB, arm64 : 3.492초
 
 ### M
-<br/>
 m6g.large, 16GB, arm64 : 3.081초
 <br/>
 m6g.medium 16GB arm64 : 3.212초
 <br/>
 
 ### 전체
-<br/>
 m6g.large, 16GB, arm64 : 3.081초
 <br/>
 t2.micro, 32GB, 64(x86) : 3.086초 
