@@ -1,5 +1,7 @@
 # aws_instance
 
+정희수, 한다현, 허상진
+
 t4g.small -> vCPU 2, 메모리 2gb, 5Gbps Burst, EBS Burst 2,085Mbps (볼륨 16gb일시 3.33초 / 20gb일시 3.492초)
 <br/>
 t4g.nano -> vCPU 2, 메모리 0.5gb, 기타 스펙 동일 (3.09초)
@@ -60,5 +62,5 @@ CPU 사용률
 
 <br/>
 <br/>
-정희수, 한다현, 허상진
+
 
