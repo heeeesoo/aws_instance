@@ -8,7 +8,7 @@ t2.micro -> vCPU 1, 메모리 1gb, 네트워크/EBS = Unknown (3.08초)
 
 ### T 유형 (t4g nano, micro, small)
 <img width="492" alt="BBE0EAC9-0E59-4FEE-BBC2-7C1FE660487E" src="https://github.com/heeeesoo/aws_instance/assets/73633272/19937fb0-2fd2-4e7c-8455-de48cae475c8">
-
+<br/>
 t2.micro, 32GB, 64(x86) : 3.086초 
 <br/>
 t4g.nano, 16GB, arm64 : 3.09초 
@@ -23,7 +23,7 @@ t4g.small, 20GB, arm64 : 3.492초
 
 ### M 유형 (m6g medium, large)
 ![BFFAD24D-0C24-4EF6-80B4-D02E7B746EB0_4_5005_c](https://github.com/heeeesoo/aws_instance/assets/73633272/85b645e8-5857-47ae-bcdd-8b142573cccf)
-
+<br/>
 m6g.large, 16GB, arm64 : 3.081초
 <br/>
 m6g.xlarge, 16GB, arm64 : 3.093초
