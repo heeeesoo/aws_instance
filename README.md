@@ -55,6 +55,9 @@ t4g.small, 20GB, arm64 : 3.492초
 m6g.medium
 <img width="203" alt="스크린샷 2024-01-05 오전 8 33 02" src="https://github.com/heeeesoo/aws_instance/assets/73633272/f12cd098-47e8-4f02-81c1-1fa8ccb2aa40">
 <br/>
+m6g.large
+<img width="518" alt="B4308F11-AEB8-4D46-9906-6288924192DC" src="https://github.com/heeeesoo/aws_instance/assets/73633272/b1dae18a-d829-47cd-bc35-75d8ae5de652">
+<br/>
 m6g.xlarge
 <img width="245" alt="스크린샷 2024-01-05 오전 8 31 35" src="https://github.com/heeeesoo/aws_instance/assets/73633272/ad08ef46-4559-4f99-8c1d-bf3a7ae96fe8">
 
