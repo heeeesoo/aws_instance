@@ -16,6 +16,7 @@ t4g.micro, 16GB, arm64: 3.277초
 t4g.small, 16GB, arm64 : 3.32초 
 <br/>
 t4g.small, 20GB, arm64 : 3.492초
+<br/>
 
 ### M
 m6g.large, 16GB, arm64 : 3.081초
