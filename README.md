@@ -22,6 +22,8 @@ t4g.small, 20GB, arm64 : 3.492초
 ### M 유형 (m6g medium, large)
 m6g.large, 16GB, arm64 : 3.081초
 <br/>
+m6g.xlarge, 16GB, arm64 : 3.093초
+<br/>
 m6g.medium 16GB arm64 : 3.212초
 <br/>
 <br/>
@@ -44,6 +46,11 @@ t4g.small, 20GB, arm64 : 3.492초
 ### 성능 결과 이유
 1. 프로그래밍을 멀티쓰레딩이 안되게 짰다
 2. T 인스턴스는 burst 계열로, 기존엔 성능이 제한되어있지만 그 이상의 성능이 필요한 경우에 크레딧을 소모하며 더 높은 성능을 사용할 수 있다고 하는데, 코드가 요구하는 성능이 nano의 베이스라인 ~ small의 베이스라인 사이여서 nano에서만 burst가 가동되었다
+3. 일정 성능 이상 확보하면 실행 시간은 비슷하지만 cpu 사용률은 더 낮아진다.
+m6g.large
+<img width="814" alt="스크린샷 2024-01-05 오전 8 31 22" src="https://github.com/heeeesoo/aws_instance/assets/73633272/db38a9db-3487-41b3-845f-9c47733752cd">
+m6g.xlarge
+<img width="245" alt="스크린샷 2024-01-05 오전 8 31 35" src="https://github.com/heeeesoo/aws_instance/assets/73633272/ad08ef46-4559-4f99-8c1d-bf3a7ae96fe8">
 
 <br/>
 <br/>
