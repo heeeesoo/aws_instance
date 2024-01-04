@@ -52,14 +52,10 @@ t4g.small, 20GB, arm64 : 3.492초
 2. T 인스턴스는 burst 계열로, 기존엔 성능이 제한되어있지만 그 이상의 성능이 필요한 경우에 크레딧을 소모하며 더 높은 성능을 사용할 수 있다고 하는데, 코드가 요구하는 성능이 nano의 베이스라인 ~ small의 베이스라인 사이여서 nano에서만 burst가 가동되었다
 3. 일정 성능 이상 확보하면 실행 시간은 비슷하지만 cpu 사용률은 더 낮아진다.
 
-m6g.medium
-<img width="203" alt="스크린샷 2024-01-05 오전 8 33 02" src="https://github.com/heeeesoo/aws_instance/assets/73633272/f12cd098-47e8-4f02-81c1-1fa8ccb2aa40">
+CPU 사용률
 <br/>
-m6g.large
-<img width="518" alt="B4308F11-AEB8-4D46-9906-6288924192DC" src="https://github.com/heeeesoo/aws_instance/assets/73633272/b1dae18a-d829-47cd-bc35-75d8ae5de652">
-<br/>
-m6g.xlarge
-<img width="245" alt="스크린샷 2024-01-05 오전 8 31 35" src="https://github.com/heeeesoo/aws_instance/assets/73633272/ad08ef46-4559-4f99-8c1d-bf3a7ae96fe8">
+<img width="207" alt="8B33D385-1778-4670-BF87-89A7A94A941B" src="https://github.com/heeeesoo/aws_instance/assets/73633272/606770d6-fbf5-4cb6-a245-78b07a830f0f">
+
 
 <br/>
 <br/>
