@@ -54,7 +54,8 @@ t4g.small, 20GB, arm64 : 3.492초
 
 CPU 사용률
 <br/>
-<img width="207" alt="8B33D385-1778-4670-BF87-89A7A94A941B" src="https://github.com/heeeesoo/aws_instance/assets/73633272/606770d6-fbf5-4cb6-a245-78b07a830f0f">
+<img width="187" alt="KakaoTalk_Photo_2024-01-05-08-47-32" src="https://github.com/heeeesoo/aws_instance/assets/73633272/a5000bd6-5387-4400-a515-05cabb1d6599">
+
 
 
 <br/>
