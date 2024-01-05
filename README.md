@@ -24,6 +24,7 @@ CPU 사용률
 
 <br/>
 <br/>
+<img width="773" alt="스크린샷 2024-01-05 오전 11 28 55" src="https://github.com/heeeesoo/aws_instance/assets/73633272/f01de5b6-0aa9-46c2-82fa-bbd9b11dae49">
 
 남들이 쓰고 있는걸 내가 쓰면 느릴 수 있다.
 <br/>
